@@ -5,4 +5,4 @@ npm run do:prep-release
 git add CHANGELOG.md
 git add package.json
 git add package-lock.json
-git commit --amend
+git commit --amend -C HEAD

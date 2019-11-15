@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](///compare/v2.0.4...v2.3.0) (2019-11-15)
+
+
+### Features
+
+* **project:** added release script 9437cf9
+
+
+### Bug Fixes
+
+* **project:** fix the hook 3be92b0
+* **project:** fixing commit-release flow f821973
+* **project:** reuse the last message when ammending 59b6c5d
+* **project:** run the do:prep-release 80a1ac9
+* **project:** skipping standard-version being run on hook 913ef81
+
 ## [2.2.0](///compare/v2.0.4...v2.2.0) (2019-11-15)
 
 
