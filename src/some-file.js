@@ -1,3 +1,3 @@
 module.exports = {
-    answer: 42
+    question: 'Where did the answer go?'
 };
