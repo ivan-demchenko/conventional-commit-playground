@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "release": "standard-version --no-verify"
+    "do:prep-release": "standard-version --no-verify",
+    "do:commitizen": "exec < /dev/tty && git cz --hook || true"
   },
   "keywords": [],
   "author": "",
@@ -23,7 +24,8 @@
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+      "prepare-commit-msg": "echo \"prepare-commit-msg\"",
+      "pre-commit": "echo \"pre-commit\""
     }
   },
   "standard-version": {
