@@ -1,6 +1,6 @@
 {
   "name": "test-conv-commits",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,8 @@
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "npm run do:commitizen",
-      "post-commit": "do:prep-release"
+      "commit-msg": "npm run do:commitizen",
+      "post-commit": "npm run do:prep-release"
     }
   },
   "standard-version": {
