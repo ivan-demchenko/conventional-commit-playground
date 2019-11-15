@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](///compare/v2.5.1...v2.6.0) (2019-11-15)
+
+
+### Features
+
+* **other-module:** added a new module a53aeaa
+* **some-module:** added more stuff 662660d
+
+
+### Bug Fixes
+
+* **release:** fix release script 0702661
+* **some-module:** fixing bug in a file d6ccd58
+* fixing release script 9ac66f2
+
 ### [2.5.3](///compare/v2.5.1...v2.5.3) (2019-11-15)
 
 
