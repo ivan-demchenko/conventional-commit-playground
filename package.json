@@ -24,8 +24,8 @@
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "echo \"prepare-commit-msg\"",
-      "pre-commit": "echo \"pre-commit\""
+      "prepare-commit-msg": "npm run do:commitizen",
+      "post-commit": "do:prep-release"
     }
   },
   "standard-version": {
