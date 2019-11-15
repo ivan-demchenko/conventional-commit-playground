@@ -1,6 +1,6 @@
 {
   "name": "test-conv-commits",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,11 @@
   "husky": {
     "hooks": {
       "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
+  },
+  "standard-version": {
+    "skip": {
+      "commit": true
     }
   }
 }
