@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.3](///compare/v2.5.1...v2.5.3) (2019-11-15)
+
+
+### Bug Fixes
+
+* fixing release script 704ed2a
+
 ### [2.5.2](///compare/v2.5.1...v2.5.2) (2019-11-15)
 
 ### [2.5.1](///compare/v2.5.0...v2.5.1) (2019-11-15)
