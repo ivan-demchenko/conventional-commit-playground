@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](///compare/v2.0.1...v2.0.2) (2019-11-15)
+
+
+### Bug Fixes
+
+* **project:** trying skipping hooks when versioning b7e034e
+
 ### [2.0.1](///compare/v2.0.0...v2.0.1) (2019-11-15)
 
 ## [2.0.0](///compare/v1.1.0...v2.0.0) (2019-11-15)
