@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.1](///compare/v2.6.0...v2.6.1) (2019-11-15)
+
+
+### Bug Fixes
+
+* **other-module:** fixing annoying bug b754d0e
+
 ## [2.6.0](///compare/v2.5.1...v2.6.0) (2019-11-15)
 
 
